@@ -1,8 +1,0 @@
-Instructions to View File
- 
-Select the zipped file. Click “Download” or “View raw.” Once downloaded, click on the file name or folder. 
-
-Because the file is in JSON format, options to open may vary based on your device. 
-Common options include selecting “Open” to a default program, or selecting “Open With” then choosing Word, Notepad, or Wordpad. 
-
-Free JSON viewers may also be available through your browser and the Internet. 
