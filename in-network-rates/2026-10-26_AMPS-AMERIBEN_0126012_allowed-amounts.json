@@ -1,0 +1,7784 @@
+{
+  "reporting_entity_name": "AMPS",
+  "reporting_entity_type": "third party",
+  "last_updated_on": "2026-10-26",
+  "version": "v2.1.0",
+  "out_of_network": [
+    {
+      "name": "SURG: MAJOR SMALL & LARGE BOWEL PROCEDURES W CC",
+      "billing_code_type": "MS-DRG",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "330",
+      "description": "SURG: MAJOR SMALL & LARGE BOWEL PROCEDURES W CC",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 49235.25,
+              "providers": [
+                {
+                  "billed_charge": 98452.03,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MED: SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC",
+      "billing_code_type": "MS-DRG",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "871",
+      "description": "MED: SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 12513.87,
+              "providers": [
+                {
+                  "billed_charge": 38779.01,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Repair of nail bed",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "11760",
+      "description": "Repair of nail bed",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 130.39,
+              "providers": [
+                {
+                  "billed_charge": 2191.35,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rpr s/n/ax/gen/trnk 2.5cm/<",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "12001",
+      "description": "Rpr s/n/ax/gen/trnk 2.5cm/<",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 947.75,
+              "providers": [
+                {
+                  "billed_charge": 1895.5,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rpr s/n/ax/gen/trnk2.6-7.5cm",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "12002",
+      "description": "Rpr s/n/ax/gen/trnk2.6-7.5cm",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 74.95,
+              "providers": [
+                {
+                  "billed_charge": 365.4,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intmd rpr n-hf/genit 2.5cm/<",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "12041",
+      "description": "Intmd rpr n-hf/genit 2.5cm/<",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 162.76,
+              "providers": [
+                {
+                  "billed_charge": 2191.35,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treat humerus fracture",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "24565",
+      "description": "Treat humerus fracture",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 307.77,
+              "providers": [
+                {
+                  "billed_charge": 1800,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treat finger fracture each",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "26735",
+      "description": "Treat finger fracture each",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 13731.466666666667,
+              "providers": [
+                {
+                  "billed_charge": 20597.2,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Application of forearm cast",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "29075",
+      "description": "Application of forearm cast",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 220,
+              "providers": [
+                {
+                  "billed_charge": 440,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Application lower leg splint",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "29515",
+      "description": "Application lower leg splint",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 831.15,
+              "providers": [
+                {
+                  "billed_charge": 1662.3,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Removal of adenoids",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "42830",
+      "description": "Removal of adenoids",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 247.75,
+              "providers": [
+                {
+                  "billed_charge": 7570,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Egd biopsy single/multiple",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "43239",
+      "description": "Egd biopsy single/multiple",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "381360529"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 840,
+              "providers": [
+                {
+                  "billed_charge": 1680,
+                  "npi": [
+                    1922090554
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laparoscopy appendectomy",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "44970",
+      "description": "Laparoscopy appendectomy",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 21678.8,
+              "providers": [
+                {
+                  "billed_charge": 21678.8,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2795.714285714286,
+              "providers": [
+                {
+                  "billed_charge": 19570,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic colonoscopy",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "45378",
+      "description": "Diagnostic colonoscopy",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 2301.75,
+              "providers": [
+                {
+                  "billed_charge": 4603.5,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1287,
+              "providers": [
+                {
+                  "billed_charge": 2574,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Colonoscopy and biopsy",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "386006309"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 241.33,
+              "providers": [
+                {
+                  "billed_charge": 4183,
+                  "npi": [
+                    1003878539
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 113.035,
+              "providers": [
+                {
+                  "billed_charge": 4713.65,
+                  "npi": [
+                    1144781501
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surg dx exam anorectal",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "45990",
+      "description": "Surg dx exam anorectal",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 1707.78,
+              "providers": [
+                {
+                  "billed_charge": 5123.34,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rectum surgery procedure",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "45999",
+      "description": "Rectum surgery procedure",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 1707.7766666666666,
+              "providers": [
+                {
+                  "billed_charge": 5123.33,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Injection for bladder x-ray",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "51600",
+      "description": "Injection for bladder x-ray",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 48.58,
+              "providers": [
+                {
+                  "billed_charge": 1487.2,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cystoscopy and treatment",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "52332",
+      "description": "Cystoscopy and treatment",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 179.48,
+              "providers": [
+                {
+                  "billed_charge": 26410.8,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hysteroscopy biopsy",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "58558",
+      "description": "Hysteroscopy biopsy",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 259.44,
+              "providers": [
+                {
+                  "billed_charge": 3499,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tlh w/t/o 250 g or less",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "58571",
+      "description": "Tlh w/t/o 250 g or less",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 36960,
+              "providers": [
+                {
+                  "billed_charge": 36960,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N block inj pudendal",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "64430",
+      "description": "N block inj pudendal",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32.5,
+              "providers": [
+                {
+                  "billed_charge": 5123.33,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemodenerv 1 extremity 1-4",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "64642",
+      "description": "Chemodenerv 1 extremity 1-4",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 881.59,
+              "providers": [
+                {
+                  "billed_charge": 2523.34,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemodenerv 1 extrem 1-4 ea",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "64643",
+      "description": "Chemodenerv 1 extrem 1-4 ea",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 866.3733333333333,
+              "providers": [
+                {
+                  "billed_charge": 2523.33,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of neck",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "70360",
+      "description": "X-ray exam of neck",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 711,
+              "providers": [
+                {
+                  "billed_charge": 711,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ct head/brain w/o dye",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "70450",
+      "description": "Ct head/brain w/o dye",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 64.115,
+              "providers": [
+                {
+                  "billed_charge": 3609.24,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ct maxillofacial w/o dye",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "70486",
+      "description": "Ct maxillofacial w/o dye",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 2875.4,
+              "providers": [
+                {
+                  "billed_charge": 2875.4,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ct soft tissue neck w/dye",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "70491",
+      "description": "Ct soft tissue neck w/dye",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "646008520"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 212.91,
+              "providers": [
+                {
+                  "billed_charge": 997,
+                  "npi": [
+                    1154317527
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mri brain stem w/o dye",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "70551",
+      "description": "Mri brain stem w/o dye",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951643327"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 4519.05,
+              "providers": [
+                {
+                  "billed_charge": 4519.05,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam chest 1 view",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "71045",
+      "description": "X-ray exam chest 1 view",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "330687414"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 37.48,
+              "providers": [
+                {
+                  "billed_charge": 916,
+                  "npi": [
+                    1497702575
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 474,
+              "providers": [
+                {
+                  "billed_charge": 474,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 34.18,
+              "providers": [
+                {
+                  "billed_charge": 489,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 14.14,
+              "providers": [
+                {
+                  "billed_charge": 1009,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam chest 2 views",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "71046",
+      "description": "X-ray exam chest 2 views",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 258,
+              "providers": [
+                {
+                  "billed_charge": 516,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 776.095,
+              "providers": [
+                {
+                  "billed_charge": 1506,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 986.69,
+              "providers": [
+                {
+                  "billed_charge": 986.69,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ct angiography chest",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "71275",
+      "description": "Ct angiography chest",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 4708,
+              "providers": [
+                {
+                  "billed_charge": 4708,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam l-s spine 2/3 vws",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "72100",
+      "description": "X-ray exam l-s spine 2/3 vws",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951643327"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 60.41,
+              "providers": [
+                {
+                  "billed_charge": 999.07,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of pelvis",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "72170",
+      "description": "X-ray exam of pelvis",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 35.48,
+              "providers": [
+                {
+                  "billed_charge": 500,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of collar bone",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73000",
+      "description": "X-ray exam of collar bone",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "352528741"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 312,
+              "providers": [
+                {
+                  "billed_charge": 416,
+                  "npi": [
+                    1396882205
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of shoulder",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73030",
+      "description": "X-ray exam of shoulder",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "352528741"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 475,
+              "providers": [
+                {
+                  "billed_charge": 475,
+                  "npi": [
+                    1396882205
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of elbow",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73070",
+      "description": "X-ray exam of elbow",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 37.14,
+              "providers": [
+                {
+                  "billed_charge": 896,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of elbow",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73080",
+      "description": "X-ray exam of elbow",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 41.78,
+              "providers": [
+                {
+                  "billed_charge": 564,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 49.36,
+              "providers": [
+                {
+                  "billed_charge": 961.93,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of forearm",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73090",
+      "description": "X-ray exam of forearm",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 120,
+              "providers": [
+                {
+                  "billed_charge": 240,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 24.486666666666668,
+              "providers": [
+                {
+                  "billed_charge": 442,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of wrist",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73110",
+      "description": "X-ray exam of wrist",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 130,
+              "providers": [
+                {
+                  "billed_charge": 260,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 332,
+              "providers": [
+                {
+                  "billed_charge": 498,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of hand",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73130",
+      "description": "X-ray exam of hand",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 170,
+              "providers": [
+                {
+                  "billed_charge": 170,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 253.5,
+              "providers": [
+                {
+                  "billed_charge": 507,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 619,
+              "providers": [
+                {
+                  "billed_charge": 1238,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of finger(s)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73140",
+      "description": "X-ray exam of finger(s)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 46.58,
+              "providers": [
+                {
+                  "billed_charge": 657.8,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mri joint upr extrem w/o dye",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73221",
+      "description": "Mri joint upr extrem w/o dye",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 259.68,
+              "providers": [
+                {
+                  "billed_charge": 1311,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam hip uni 2-3 views",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73502",
+      "description": "X-ray exam hip uni 2-3 views",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 57.8,
+              "providers": [
+                {
+                  "billed_charge": 683.1,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of knee 3",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73562",
+      "description": "X-ray exam of knee 3",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 392.7,
+              "providers": [
+                {
+                  "billed_charge": 785.4,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of ankle",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73610",
+      "description": "X-ray exam of ankle",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 451.5,
+              "providers": [
+                {
+                  "billed_charge": 903,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 55.52,
+              "providers": [
+                {
+                  "billed_charge": 941,
+                  "npi": [
+                    1497702575
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 289,
+              "providers": [
+                {
+                  "billed_charge": 578,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam of foot",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73630",
+      "description": "X-ray exam of foot",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 378.4,
+              "providers": [
+                {
+                  "billed_charge": 756.8,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 257.5,
+              "providers": [
+                {
+                  "billed_charge": 515,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 50.9,
+              "providers": [
+                {
+                  "billed_charge": 861.14,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ct angio lwr extr w/o&w/dye",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73706",
+      "description": "Ct angio lwr extr w/o&w/dye",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 383.75,
+              "providers": [
+                {
+                  "billed_charge": 3021.9,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mri jnt of lwr extre w/o dye",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "73721",
+      "description": "Mri jnt of lwr extre w/o dye",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 258.83,
+              "providers": [
+                {
+                  "billed_charge": 1287,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X-ray exam abdomen 1 view",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "74018",
+      "description": "X-ray exam abdomen 1 view",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 482,
+              "providers": [
+                {
+                  "billed_charge": 482,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 445.8666666666667,
+              "providers": [
+                {
+                  "billed_charge": 650,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ct abd & pelvis w/o contrast",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "74176",
+      "description": "Ct abd & pelvis w/o contrast",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 42.31333333333333,
+              "providers": [
+                {
+                  "billed_charge": 15400,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 268.53,
+              "providers": [
+                {
+                  "billed_charge": 2102,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ct abd & pelv w/contrast",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "74177",
+      "description": "Ct abd & pelv w/contrast",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 7554.75,
+              "providers": [
+                {
+                  "billed_charge": 7554.75,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 380,
+              "providers": [
+                {
+                  "billed_charge": 6496,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 6246,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2822.1428571428573,
+              "providers": [
+                {
+                  "billed_charge": 19755,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contrast x-ray bladder",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "74430",
+      "description": "Contrast x-ray bladder",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 50.26,
+              "providers": [
+                {
+                  "billed_charge": 1136.3,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fluoroscopy <1 hr phys/qhp",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76000",
+      "description": "Fluoroscopy <1 hr phys/qhp",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 53.05,
+              "providers": [
+                {
+                  "billed_charge": 1431.47,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ultrasound breast complete",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76641",
+      "description": "Ultrasound breast complete",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 94.6,
+              "providers": [
+                {
+                  "billed_charge": 1891,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ultrasound breast limited",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76642",
+      "description": "Ultrasound breast limited",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 389.43333333333334,
+              "providers": [
+                {
+                  "billed_charge": 1107.75,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1291,
+              "providers": [
+                {
+                  "billed_charge": 1291,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Us exam abdom complete",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76700",
+      "description": "Us exam abdom complete",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 136.96,
+              "providers": [
+                {
+                  "billed_charge": 1937.1,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 169.46,
+              "providers": [
+                {
+                  "billed_charge": 2463.19,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Echo exam of abdomen",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76705",
+      "description": "Echo exam of abdomen",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 109.14,
+              "providers": [
+                {
+                  "billed_charge": 1963,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 529,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 866,
+              "providers": [
+                {
+                  "billed_charge": 866,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Us exam abdo back wall comp",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76770",
+      "description": "Us exam abdo back wall comp",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 134.52,
+              "providers": [
+                {
+                  "billed_charge": 979,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ob us < 14 wks single fetus",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76801",
+      "description": "Ob us < 14 wks single fetus",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 734,
+              "providers": [
+                {
+                  "billed_charge": 734,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ob us >/= 14 wks sngl fetus",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76805",
+      "description": "Ob us >/= 14 wks sngl fetus",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 734,
+              "providers": [
+                {
+                  "billed_charge": 734,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ob us limited fetus(s)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76815",
+      "description": "Ob us limited fetus(s)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 734,
+              "providers": [
+                {
+                  "billed_charge": 734,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Echo exam of fetal heart",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76825",
+      "description": "Echo exam of fetal heart",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 165.81,
+              "providers": [
+                {
+                  "billed_charge": 2001,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Echo exam of fetal heart",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76827",
+      "description": "Echo exam of fetal heart",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 44.28,
+              "providers": [
+                {
+                  "billed_charge": 1051,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transvaginal us non-ob",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76830",
+      "description": "Transvaginal us non-ob",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 140.26,
+              "providers": [
+                {
+                  "billed_charge": 1625.8,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 148.71,
+              "providers": [
+                {
+                  "billed_charge": 496,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 414.57142857142856,
+              "providers": [
+                {
+                  "billed_charge": 2902,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Us exam pelvic complete",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76856",
+      "description": "Us exam pelvic complete",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 125.8,
+              "providers": [
+                {
+                  "billed_charge": 1606,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 133.2,
+              "providers": [
+                {
+                  "billed_charge": 466,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Us exam pelvic limited",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "76857",
+      "description": "Us exam pelvic limited",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 309.2857142857143,
+              "providers": [
+                {
+                  "billed_charge": 2165,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breast tomosynthesis uni",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "77061",
+      "description": "Breast tomosynthesis uni",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 7.36,
+              "providers": [
+                {
+                  "billed_charge": 402.6,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breast tomosynthesis bi",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "77063",
+      "description": "Breast tomosynthesis bi",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 18.08,
+              "providers": [
+                {
+                  "billed_charge": 125.4,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 26.17,
+              "providers": [
+                {
+                  "billed_charge": 122,
+                  "npi": [
+                    1154317527
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 29.46,
+              "providers": [
+                {
+                  "billed_charge": 86,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 95,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dx mammo incl cad uni",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "77065",
+      "description": "Dx mammo incl cad uni",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 50.03,
+              "providers": [
+                {
+                  "billed_charge": 775.4,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 122.68,
+              "providers": [
+                {
+                  "billed_charge": 1648,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scr mammo bi incl cad",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "77067",
+      "description": "Scr mammo bi incl cad",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 70.58,
+              "providers": [
+                {
+                  "billed_charge": 936.6,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 102.01,
+              "providers": [
+                {
+                  "billed_charge": 430,
+                  "npi": [
+                    1154317527
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 114.82,
+              "providers": [
+                {
+                  "billed_charge": 312,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 343,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dxa bone density axial",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "77080",
+      "description": "Dxa bone density axial",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 49.82,
+              "providers": [
+                {
+                  "billed_charge": 758,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metabolic panel total ca",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "80048",
+      "description": "Metabolic panel total ca",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 94.19,
+              "providers": [
+                {
+                  "billed_charge": 437.95,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 11,
+              "providers": [
+                {
+                  "billed_charge": 20,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 630.5,
+              "providers": [
+                {
+                  "billed_charge": 1250,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "General health panel",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "80050",
+      "description": "General health panel",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 1118,
+              "providers": [
+                {
+                  "billed_charge": 1118,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrolyte panel",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "80051",
+      "description": "Electrolyte panel",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 40,
+              "providers": [
+                {
+                  "billed_charge": 80,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comprehen metabolic panel",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "80053",
+      "description": "Comprehen metabolic panel",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 248.0575,
+              "providers": [
+                {
+                  "billed_charge": 489.25,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 13.73,
+              "providers": [
+                {
+                  "billed_charge": 883,
+                  "npi": [
+                    1497702575
+                  ]
+                },
+                {
+                  "billed_charge": 224,
+                  "npi": [
+                    1447221056
+                  ]
+                },
+                {
+                  "billed_charge": 574,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 13.653333333333332,
+              "providers": [
+                {
+                  "billed_charge": 293.5,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 564.365,
+              "providers": [
+                {
+                  "billed_charge": 1115,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 13.73,
+              "providers": [
+                {
+                  "billed_charge": 176,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 84.88342857142857,
+              "providers": [
+                {
+                  "billed_charge": 1458,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 294.335,
+              "providers": [
+                {
+                  "billed_charge": 315.82,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 13.73,
+              "providers": [
+                {
+                  "billed_charge": 164,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 27,
+              "providers": [
+                {
+                  "billed_charge": 27,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lipid panel",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "80061",
+      "description": "Lipid panel",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "630845288"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 17.41,
+              "providers": [
+                {
+                  "billed_charge": 270,
+                  "npi": [
+                    1447221056
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 19.5,
+              "providers": [
+                {
+                  "billed_charge": 39,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 39,
+              "providers": [
+                {
+                  "billed_charge": 39,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urinalysis auto w/scope",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "81001",
+      "description": "Urinalysis auto w/scope",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 159.205,
+              "providers": [
+                {
+                  "billed_charge": 210.9,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 4.12,
+              "providers": [
+                {
+                  "billed_charge": 103,
+                  "npi": [
+                    1447221056
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 195.15,
+              "providers": [
+                {
+                  "billed_charge": 195.15,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 4.12,
+              "providers": [
+                {
+                  "billed_charge": 172,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urinalysis auto w/o scope",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "81003",
+      "description": "Urinalysis auto w/o scope",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 49.432,
+              "providers": [
+                {
+                  "billed_charge": 120.65,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 13,
+              "providers": [
+                {
+                  "billed_charge": 26,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2.93,
+              "providers": [
+                {
+                  "billed_charge": 101,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 19.085238095238097,
+              "providers": [
+                {
+                  "billed_charge": 196,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urine pregnancy test",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "81025",
+      "description": "Urine pregnancy test",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 197.495,
+              "providers": [
+                {
+                  "billed_charge": 383.8,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 11.19,
+              "providers": [
+                {
+                  "billed_charge": 76,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ur albumin quantitative",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82043",
+      "description": "Ur albumin quantitative",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951643327"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 7.51,
+              "providers": [
+                {
+                  "billed_charge": 9.1,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amino acids single quant",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82131",
+      "description": "Amino acids single quant",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 225,
+              "providers": [
+                {
+                  "billed_charge": 450,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bilirubin total",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82247",
+      "description": "Bilirubin total",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32,
+              "providers": [
+                {
+                  "billed_charge": 64,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vitamin d 25 hydroxy",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82306",
+      "description": "Vitamin d 25 hydroxy",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 44,
+              "providers": [
+                {
+                  "billed_charge": 88,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 38.48,
+              "providers": [
+                {
+                  "billed_charge": 83,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 89,
+              "providers": [
+                {
+                  "billed_charge": 89,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of calcium",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82310",
+      "description": "Assay of calcium",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 28.5,
+              "providers": [
+                {
+                  "billed_charge": 57,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 6.71,
+              "providers": [
+                {
+                  "billed_charge": 11,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of ck (cpk)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82550",
+      "description": "Assay of ck (cpk)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "330687414"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 8.46,
+              "providers": [
+                {
+                  "billed_charge": 294,
+                  "npi": [
+                    1497702575
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of creatinine",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82565",
+      "description": "Assay of creatinine",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 28.5,
+              "providers": [
+                {
+                  "billed_charge": 57,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 6.66,
+              "providers": [
+                {
+                  "billed_charge": 25,
+                  "npi": [
+                    1154317527
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of urine creatinine",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82570",
+      "description": "Assay of urine creatinine",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 15,
+              "providers": [
+                {
+                  "billed_charge": 30,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 6.73,
+              "providers": [
+                {
+                  "billed_charge": 27.3,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of ggt",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "82977",
+      "description": "Assay of ggt",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32,
+              "providers": [
+                {
+                  "billed_charge": 64,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glycosylated hemoglobin test",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "83036",
+      "description": "Glycosylated hemoglobin test",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 179.5,
+              "providers": [
+                {
+                  "billed_charge": 179.5,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 12.62,
+              "providers": [
+                {
+                  "billed_charge": 47.25,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 30,
+              "providers": [
+                {
+                  "billed_charge": 30,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of lactic acid",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "83605",
+      "description": "Assay of lactic acid",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 169.985,
+              "providers": [
+                {
+                  "billed_charge": 328.69,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 15.04,
+              "providers": [
+                {
+                  "billed_charge": 207,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 98,
+              "providers": [
+                {
+                  "billed_charge": 686,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of lipase",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "83690",
+      "description": "Assay of lipase",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 214.91833333333332,
+              "providers": [
+                {
+                  "billed_charge": 256.11,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 8.96,
+              "providers": [
+                {
+                  "billed_charge": 266,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 252,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 173,
+              "providers": [
+                {
+                  "billed_charge": 173,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 27.495,
+              "providers": [
+                {
+                  "billed_charge": 633,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 8.96,
+              "providers": [
+                {
+                  "billed_charge": 49,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of magnesium",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "83735",
+      "description": "Assay of magnesium",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 150,
+              "providers": [
+                {
+                  "billed_charge": 150,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 40.5,
+              "providers": [
+                {
+                  "billed_charge": 81,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 136,
+              "providers": [
+                {
+                  "billed_charge": 136,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 8.71,
+              "providers": [
+                {
+                  "billed_charge": 133,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 265,
+                  "npi": [
+                    1760480503
+                  ]
+                },
+                {
+                  "billed_charge": 145,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of natriuretic peptide",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "83880",
+      "description": "Assay of natriuretic peptide",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 201.75,
+              "providers": [
+                {
+                  "billed_charge": 403.5,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 415,
+              "providers": [
+                {
+                  "billed_charge": 415,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of osteocalcin",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "83937",
+      "description": "Assay of osteocalcin",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 48.5,
+              "providers": [
+                {
+                  "billed_charge": 97,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of parathormone",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "83970",
+      "description": "Assay of parathormone",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 81,
+              "providers": [
+                {
+                  "billed_charge": 162,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 53.66,
+              "providers": [
+                {
+                  "billed_charge": 106,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay alkaline phosphatase",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84075",
+      "description": "Assay alkaline phosphatase",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32,
+              "providers": [
+                {
+                  "billed_charge": 64,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of phosphorus",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84100",
+      "description": "Assay of phosphorus",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32,
+              "providers": [
+                {
+                  "billed_charge": 64,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 6.16,
+              "providers": [
+                {
+                  "billed_charge": 11,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 238,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Procalcitonin (pct)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84145",
+      "description": "Procalcitonin (pct)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 444.6,
+              "providers": [
+                {
+                  "billed_charge": 444.6,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of psa total",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84153",
+      "description": "Assay of psa total",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "630845288"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 23.91,
+              "providers": [
+                {
+                  "billed_charge": 138,
+                  "npi": [
+                    1447221056
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of vitamin b-6",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84207",
+      "description": "Assay of vitamin b-6",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 18.375,
+              "providers": [
+                {
+                  "billed_charge": 36.75,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of free testosterone",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84402",
+      "description": "Assay of free testosterone",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "630845288"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 33.11,
+              "providers": [
+                {
+                  "billed_charge": 74.2,
+                  "npi": [
+                    1447221056
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of total testosterone",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84403",
+      "description": "Assay of total testosterone",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "630845288"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 33.55,
+              "providers": [
+                {
+                  "billed_charge": 75.14,
+                  "npi": [
+                    1447221056
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of total thyroxine",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84436",
+      "description": "Assay of total thyroxine",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 22,
+              "providers": [
+                {
+                  "billed_charge": 22,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of free thyroxine",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84439",
+      "description": "Assay of free thyroxine",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "630845288"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 11.73,
+              "providers": [
+                {
+                  "billed_charge": 140.5,
+                  "npi": [
+                    1447221056
+                  ]
+                },
+                {
+                  "billed_charge": 29,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 149,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay thyroid stim hormone",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84443",
+      "description": "Assay thyroid stim hormone",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "630845288"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 21.84,
+              "providers": [
+                {
+                  "billed_charge": 140.5,
+                  "npi": [
+                    1447221056
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 20.42,
+              "providers": [
+                {
+                  "billed_charge": 38,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 21.84,
+              "providers": [
+                {
+                  "billed_charge": 240,
+                  "npi": [
+                    1760480503
+                  ]
+                },
+                {
+                  "billed_charge": 298,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 38,
+              "providers": [
+                {
+                  "billed_charge": 38,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transferase (ast) (sgot)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84450",
+      "description": "Transferase (ast) (sgot)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32,
+              "providers": [
+                {
+                  "billed_charge": 64,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alanine amino (alt) (sgpt)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84460",
+      "description": "Alanine amino (alt) (sgpt)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32,
+              "providers": [
+                {
+                  "billed_charge": 64,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of triglycerides",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84478",
+      "description": "Assay of triglycerides",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 7.46,
+              "providers": [
+                {
+                  "billed_charge": 77,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Free assay (ft-3)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84481",
+      "description": "Free assay (ft-3)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 24.673333333333332,
+              "providers": [
+                {
+                  "billed_charge": 52,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of troponin quant",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84484",
+      "description": "Assay of troponin quant",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 213.4975,
+              "providers": [
+                {
+                  "billed_charge": 628.335,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 338,
+              "providers": [
+                {
+                  "billed_charge": 338,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 16.21,
+              "providers": [
+                {
+                  "billed_charge": 279,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assay of urea nitrogen",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84520",
+      "description": "Assay of urea nitrogen",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 28.5,
+              "providers": [
+                {
+                  "billed_charge": 57,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorionic gonadotropin test",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84702",
+      "description": "Chorionic gonadotropin test",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 353.98,
+              "providers": [
+                {
+                  "billed_charge": 353.98,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 83.3884,
+              "providers": [
+                {
+                  "billed_charge": 1013,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorionic gonadotropin assay",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "84703",
+      "description": "Chorionic gonadotropin assay",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 86.76,
+              "providers": [
+                {
+                  "billed_charge": 327.48,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 11,
+              "providers": [
+                {
+                  "billed_charge": 22,
+                  "npi": [
+                    1922090554
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 9.78,
+              "providers": [
+                {
+                  "billed_charge": 439,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 429,
+              "providers": [
+                {
+                  "billed_charge": 858,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bl smear w/diff wbc count",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85007",
+      "description": "Bl smear w/diff wbc count",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 17,
+              "providers": [
+                {
+                  "billed_charge": 34,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hematocrit",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85014",
+      "description": "Hematocrit",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 20.54,
+              "providers": [
+                {
+                  "billed_charge": 76,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hemoglobin",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85018",
+      "description": "Hemoglobin",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 20.7775,
+              "providers": [
+                {
+                  "billed_charge": 76.95,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Complete cbc w/auto diff wbc",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85025",
+      "description": "Complete cbc w/auto diff wbc",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 121.33857142857143,
+              "providers": [
+                {
+                  "billed_charge": 220.74642857142857,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 10.1,
+              "providers": [
+                {
+                  "billed_charge": 341,
+                  "npi": [
+                    1497702575
+                  ]
+                },
+                {
+                  "billed_charge": 154.5,
+                  "npi": [
+                    1447221056
+                  ]
+                },
+                {
+                  "billed_charge": 222,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 168.75,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 100.05,
+              "providers": [
+                {
+                  "billed_charge": 190,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 10.1,
+              "providers": [
+                {
+                  "billed_charge": 155,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 44.6375,
+              "providers": [
+                {
+                  "billed_charge": 407.725,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 229.96,
+              "providers": [
+                {
+                  "billed_charge": 229.96,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 10.1,
+              "providers": [
+                {
+                  "billed_charge": 80,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 24,
+              "providers": [
+                {
+                  "billed_charge": 24,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Complete cbc automated",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85027",
+      "description": "Complete cbc automated",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "314379441"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 15.5,
+              "providers": [
+                {
+                  "billed_charge": 31,
+                  "npi": [
+                    1134152986
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fibrin degradj d-dimer",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85380",
+      "description": "Fibrin degradj d-dimer",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 158,
+              "providers": [
+                {
+                  "billed_charge": 158,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prothrombin time",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85610",
+      "description": "Prothrombin time",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 45.26,
+              "providers": [
+                {
+                  "billed_charge": 130.2,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2.232,
+              "providers": [
+                {
+                  "billed_charge": 448,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rbc sed rate automated",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85652",
+      "description": "Rbc sed rate automated",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 3.51,
+              "providers": [
+                {
+                  "billed_charge": 110.2,
+                  "npi": [
+                    1134133002
+                  ]
+                },
+                {
+                  "billed_charge": 7,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thromboplastin time partial",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "85730",
+      "description": "Thromboplastin time partial",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 57.07,
+              "providers": [
+                {
+                  "billed_charge": 163.4,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 7.81,
+              "providers": [
+                {
+                  "billed_charge": 553,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C-reactive protein",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86140",
+      "description": "C-reactive protein",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 221.1325,
+              "providers": [
+                {
+                  "billed_charge": 292.6,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 6.73,
+              "providers": [
+                {
+                  "billed_charge": 15,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 113,
+              "providers": [
+                {
+                  "billed_charge": 113,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heterophile antibody screen",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86308",
+      "description": "Heterophile antibody screen",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 3.365,
+              "providers": [
+                {
+                  "billed_charge": 185.25,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 152.43,
+              "providers": [
+                {
+                  "billed_charge": 152.43,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rheumatoid factor quant",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86431",
+      "description": "Rheumatoid factor quant",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 22.68,
+              "providers": [
+                {
+                  "billed_charge": 22.68,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tb test cell immun measure",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86480",
+      "description": "Tb test cell immun measure",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 247.92,
+              "providers": [
+                {
+                  "billed_charge": 247.92,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coccidioides antibody",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86635",
+      "description": "Coccidioides antibody",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 91.76,
+              "providers": [
+                {
+                  "billed_charge": 91.76,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hep b core antibody total",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86704",
+      "description": "Hep b core antibody total",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 48.2,
+              "providers": [
+                {
+                  "billed_charge": 48.2,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hep b surface antibody",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86706",
+      "description": "Hep b surface antibody",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 136,
+              "providers": [
+                {
+                  "billed_charge": 136,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hepatitis c ab test",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86803",
+      "description": "Hepatitis c ab test",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 167,
+              "providers": [
+                {
+                  "billed_charge": 167,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rbc antibody screen",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86850",
+      "description": "Rbc antibody screen",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 6.35,
+              "providers": [
+                {
+                  "billed_charge": 371.54,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 535,
+              "providers": [
+                {
+                  "billed_charge": 535,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood typing serologic abo",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86900",
+      "description": "Blood typing serologic abo",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 1.945,
+              "providers": [
+                {
+                  "billed_charge": 184.6,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 79.978,
+              "providers": [
+                {
+                  "billed_charge": 396,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood typing serologic rh(d)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "86901",
+      "description": "Blood typing serologic rh(d)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 1.945,
+              "providers": [
+                {
+                  "billed_charge": 155.65,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 53.378,
+              "providers": [
+                {
+                  "billed_charge": 263,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood culture for bacteria",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87040",
+      "description": "Blood culture for bacteria",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 227.82888888888888,
+              "providers": [
+                {
+                  "billed_charge": 502.55,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 26.83,
+              "providers": [
+                {
+                  "billed_charge": 584,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Culture aerobic identify",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87077",
+      "description": "Culture aerobic identify",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 10.5,
+              "providers": [
+                {
+                  "billed_charge": 395,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urine culture/colony count",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87086",
+      "description": "Urine culture/colony count",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 56,
+              "providers": [
+                {
+                  "billed_charge": 56,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 10.49,
+              "providers": [
+                {
+                  "billed_charge": 689,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Microbe susceptible mic",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87186",
+      "description": "Microbe susceptible mic",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 11.25,
+              "providers": [
+                {
+                  "billed_charge": 516,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resp syncytial ag ia",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87420",
+      "description": "Resp syncytial ag ia",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "364755936"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 18.08,
+              "providers": [
+                {
+                  "billed_charge": 210.88,
+                  "npi": [
+                    1831629526
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iadna-dna/rna probe tq 12-25",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87507",
+      "description": "Iadna-dna/rna probe tq 12-25",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 1526.65,
+              "providers": [
+                {
+                  "billed_charge": 1526.65,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resp virus 12-25 targets",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87633",
+      "description": "Resp virus 12-25 targets",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 180.60333333333332,
+              "providers": [
+                {
+                  "billed_charge": 1349,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strep a dna amp probe",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87651",
+      "description": "Strep a dna amp probe",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 27.372,
+              "providers": [
+                {
+                  "billed_charge": 432.25,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 106.38,
+              "providers": [
+                {
+                  "billed_charge": 106.38,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Influenza assay w/optic",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "87804",
+      "description": "Influenza assay w/optic",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 21.515,
+              "providers": [
+                {
+                  "billed_charge": 419,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tissue exam by pathologist",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "88304",
+      "description": "Tissue exam by pathologist",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 495.21,
+              "providers": [
+                {
+                  "billed_charge": 495.21,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 150,
+              "providers": [
+                {
+                  "billed_charge": 750,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tissue exam by pathologist",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "88305",
+      "description": "Tissue exam by pathologist",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "381360529"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 312,
+              "providers": [
+                {
+                  "billed_charge": 312,
+                  "npi": [
+                    1922090554
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 89.73,
+              "providers": [
+                {
+                  "billed_charge": 245,
+                  "npi": [
+                    1003878539
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 44.055,
+              "providers": [
+                {
+                  "billed_charge": 363.15,
+                  "npi": [
+                    1144781501
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 89.25,
+              "providers": [
+                {
+                  "billed_charge": 619,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tissue exam by pathologist",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "88307",
+      "description": "Tissue exam by pathologist",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 1597,
+              "providers": [
+                {
+                  "billed_charge": 1597,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rv5 vacc 3 dose live oral",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "90680",
+      "description": "Rv5 vacc 3 dose live oral",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 206,
+              "providers": [
+                {
+                  "billed_charge": 309,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dtap-ipv-hib-hepb vaccine im",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "90697",
+      "description": "Dtap-ipv-hib-hepb vaccine im",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 350.7,
+              "providers": [
+                {
+                  "billed_charge": 526.05,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrocardiogram tracing",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "93005",
+      "description": "Electrocardiogram tracing",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 213.95666666666668,
+              "providers": [
+                {
+                  "billed_charge": 633.6,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 494,
+              "providers": [
+                {
+                  "billed_charge": 494,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 8.79,
+              "providers": [
+                {
+                  "billed_charge": 547.5,
+                  "npi": [
+                    1902897820
+                  ]
+                },
+                {
+                  "billed_charge": 985,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 9.48,
+              "providers": [
+                {
+                  "billed_charge": 423,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 136.315,
+              "providers": [
+                {
+                  "billed_charge": 1616,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Echo transthoracic",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "93303",
+      "description": "Echo transthoracic",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 279.06,
+              "providers": [
+                {
+                  "billed_charge": 4936,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Doppler echo exam heart",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "93320",
+      "description": "Doppler echo exam heart",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 65.2,
+              "providers": [
+                {
+                  "billed_charge": 1686,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Doppler color flow add-on",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "93325",
+      "description": "Doppler color flow add-on",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 19.98,
+              "providers": [
+                {
+                  "billed_charge": 1820,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Extremity study",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "93971",
+      "description": "Extremity study",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 137.5,
+              "providers": [
+                {
+                  "billed_charge": 1843.38,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 146.77,
+              "providers": [
+                {
+                  "billed_charge": 1631,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Airway inhalation treatment",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "94640",
+      "description": "Airway inhalation treatment",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "364755936"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 11.18,
+              "providers": [
+                {
+                  "billed_charge": 278.33,
+                  "npi": [
+                    1831629526
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cbt 1st hour",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "94644",
+      "description": "Cbt 1st hour",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 425.295,
+              "providers": [
+                {
+                  "billed_charge": 850.59,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slp stdy unattended",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "95800",
+      "description": "Slp stdy unattended",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 2565,
+              "providers": [
+                {
+                  "billed_charge": 2565,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guide nerv destr elec stim",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "95873",
+      "description": "Guide nerv destr elec stim",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 873.2333333333333,
+              "providers": [
+                {
+                  "billed_charge": 2523.33,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caregiver health risk assmt",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "96161",
+      "description": "Caregiver health risk assmt",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 59.333333333333336,
+              "providers": [
+                {
+                  "billed_charge": 89,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Therapeutic exercises",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "97110",
+      "description": "Therapeutic exercises",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 53.120714285714286,
+              "providers": [
+                {
+                  "billed_charge": 649.8,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 28.1,
+              "providers": [
+                {
+                  "billed_charge": 258,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manual therapy 1/> regions",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "97140",
+      "description": "Manual therapy 1/> regions",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 20.055,
+              "providers": [
+                {
+                  "billed_charge": 359,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 26.84,
+              "providers": [
+                {
+                  "billed_charge": 241,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "97162",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "97162",
+      "description": "97162",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 589.43,
+              "providers": [
+                {
+                  "billed_charge": 589.43,
+                  "npi": [
+                    1134133002
+                  ]
+                },
+                {
+                  "billed_charge": 589.43,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Self care mngment training",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "97535",
+      "description": "Self care mngment training",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 274,
+              "providers": [
+                {
+                  "billed_charge": 274,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mod sed same phys/qhp 5/>yrs",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99152",
+      "description": "Mod sed same phys/qhp 5/>yrs",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "381360529"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 122,
+              "providers": [
+                {
+                  "billed_charge": 122,
+                  "npi": [
+                    1922090554
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 7.04,
+              "providers": [
+                {
+                  "billed_charge": 345,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mod sed same phys/qhp ea",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99153",
+      "description": "Mod sed same phys/qhp ea",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 7.735,
+              "providers": [
+                {
+                  "billed_charge": 345,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office/outpatient visit est",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99211",
+      "description": "Office/outpatient visit est",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 150,
+              "providers": [
+                {
+                  "billed_charge": 150,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office/outpatient visit est",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99212",
+      "description": "Office/outpatient visit est",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "351955872"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 72,
+              "providers": [
+                {
+                  "billed_charge": 144,
+                  "npi": [
+                    1144266024
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emergency dept visit",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99282",
+      "description": "Emergency dept visit",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 26.33,
+              "providers": [
+                {
+                  "billed_charge": 1549.9,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 52.2,
+              "providers": [
+                {
+                  "billed_charge": 915,
+                  "npi": [
+                    1831629526
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emergency dept visit",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99283",
+      "description": "Emergency dept visit",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 395.3233333333333,
+              "providers": [
+                {
+                  "billed_charge": 2099.9,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 92.47,
+              "providers": [
+                {
+                  "billed_charge": 2498,
+                  "npi": [
+                    1497702575
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 89.66,
+              "providers": [
+                {
+                  "billed_charge": 1468.9,
+                  "npi": [
+                    1831629526
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 808.345,
+              "providers": [
+                {
+                  "billed_charge": 1528,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 283.8514285714286,
+              "providers": [
+                {
+                  "billed_charge": 3249.4285714285716,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 92.47,
+              "providers": [
+                {
+                  "billed_charge": 1960.64,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emergency dept visit",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99284",
+      "description": "Emergency dept visit",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 645.132,
+              "providers": [
+                {
+                  "billed_charge": 2762.1,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 157.05,
+              "providers": [
+                {
+                  "billed_charge": 4035,
+                  "npi": [
+                    1497702575
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1408.46,
+              "providers": [
+                {
+                  "billed_charge": 2666,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 150.92,
+              "providers": [
+                {
+                  "billed_charge": 2492,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2606,
+              "providers": [
+                {
+                  "billed_charge": 3909,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 38.8725,
+              "providers": [
+                {
+                  "billed_charge": 6337,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 3026.37,
+              "providers": [
+                {
+                  "billed_charge": 3026.37,
+                  "npi": [
+                    1518951300
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emergency dept visit",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99285",
+      "description": "Emergency dept visit",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 2001.46,
+              "providers": [
+                {
+                  "billed_charge": 3868.7,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 145.91333333333333,
+              "providers": [
+                {
+                  "billed_charge": 6405,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 221.52,
+              "providers": [
+                {
+                  "billed_charge": 4562,
+                  "npi": [
+                    1134178999
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 768.46,
+              "providers": [
+                {
+                  "billed_charge": 8996,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 228.03,
+              "providers": [
+                {
+                  "billed_charge": 4578,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Per pm reeval est pat infant",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "99391",
+      "description": "Per pm reeval est pat infant",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "340714585"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 96,
+              "providers": [
+                {
+                  "billed_charge": 144,
+                  "npi": [
+                    1679525919
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C1758 - Catheter Ureteral (not urethral)",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "C1758",
+      "description": "C1758 - Catheter Ureteral (not urethral)",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 542.53,
+              "providers": [
+                {
+                  "billed_charge": 542.53,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C1894  \tIntro/sheath, non-laser",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "C1894",
+      "description": "C1894  \tIntro/sheath, non-laser",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 980.67,
+              "providers": [
+                {
+                  "billed_charge": 980.67,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C2617  STENT, NON-CORONARY, TEMPORARY, WITHOUT DELIVERY SYSTEM\t",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "C2617",
+      "description": "C2617  STENT, NON-CORONARY, TEMPORARY, WITHOUT DELIVERY SYSTEM\t",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 625.24,
+              "providers": [
+                {
+                  "billed_charge": 625.24,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hospital observation per hr",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "G0378",
+      "description": "Hospital observation per hr",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 2015,
+              "providers": [
+                {
+                  "billed_charge": 2015,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 428,
+              "providers": [
+                {
+                  "billed_charge": 2996,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drug test def 1-7 classes",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "G0480",
+      "description": "Drug test def 1-7 classes",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 148.76,
+              "providers": [
+                {
+                  "billed_charge": 402,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 229.66,
+              "providers": [
+                {
+                  "billed_charge": 459.32,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Injection,onabotulinumtoxina",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J0585",
+      "description": "Injection,onabotulinumtoxina",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 5760.3,
+              "providers": [
+                {
+                  "billed_charge": 14742,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cefazolin sodium injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J0690",
+      "description": "Cefazolin sodium injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32.848,
+              "providers": [
+                {
+                  "billed_charge": 54.068,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1.08,
+              "providers": [
+                {
+                  "billed_charge": 30,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 271.3,
+              "providers": [
+                {
+                  "billed_charge": 271.3,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cefoxitin sodium injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J0694",
+      "description": "Cefoxitin sodium injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 138.8,
+              "providers": [
+                {
+                  "billed_charge": 971.6,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ciprofloxacin iv",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J0744",
+      "description": "Ciprofloxacin iv",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 201.3,
+              "providers": [
+                {
+                  "billed_charge": 201.3,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dexamethasone sodium phos",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J1100",
+      "description": "Dexamethasone sodium phos",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 6.538333333333333,
+              "providers": [
+                {
+                  "billed_charge": 20.573333333333334,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1.43,
+              "providers": [
+                {
+                  "billed_charge": 23,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 0.6233333333333333,
+              "providers": [
+                {
+                  "billed_charge": 30,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 73.2909090909091,
+              "providers": [
+                {
+                  "billed_charge": 268.56363636363636,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Granisetron hcl injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J1626",
+      "description": "Granisetron hcl injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 38.457142857142856,
+              "providers": [
+                {
+                  "billed_charge": 269.2,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inj heparin sodium per 1000u",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J1644",
+      "description": "Inj heparin sodium per 1000u",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 34.845,
+              "providers": [
+                {
+                  "billed_charge": 34.845,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inj enoxaparin sodium",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J1650",
+      "description": "Inj enoxaparin sodium",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 42.39,
+              "providers": [
+                {
+                  "billed_charge": 42.39,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Insulin injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J1815",
+      "description": "Insulin injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 29.15,
+              "providers": [
+                {
+                  "billed_charge": 204.05,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ketorolac tromethamine inj",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J1885",
+      "description": "Ketorolac tromethamine inj",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 9.807692307692308,
+              "providers": [
+                {
+                  "billed_charge": 16.886153846153846,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 0.44,
+              "providers": [
+                {
+                  "billed_charge": 20,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 0.88,
+              "providers": [
+                {
+                  "billed_charge": 28,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2.715,
+              "providers": [
+                {
+                  "billed_charge": 10,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 39.26428571428571,
+              "providers": [
+                {
+                  "billed_charge": 274.85,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Levetiracetam injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J1953",
+      "description": "Levetiracetam injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 3.9,
+              "providers": [
+                {
+                  "billed_charge": 105.66,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meperidine hydrochl /100 MG",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J2175",
+      "description": "Meperidine hydrochl /100 MG",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 7.066666666666666,
+              "providers": [
+                {
+                  "billed_charge": 30,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inj midazolam hydrochloride",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J2250",
+      "description": "Inj midazolam hydrochloride",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 26.472,
+              "providers": [
+                {
+                  "billed_charge": 44,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 53.89,
+              "providers": [
+                {
+                  "billed_charge": 269.45,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Morphine sulfate injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J2270",
+      "description": "Morphine sulfate injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 75.42666666666666,
+              "providers": [
+                {
+                  "billed_charge": 99.33666666666667,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 17.36,
+              "providers": [
+                {
+                  "billed_charge": 80,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 5.79,
+              "providers": [
+                {
+                  "billed_charge": 37,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2.37,
+              "providers": [
+                {
+                  "billed_charge": 58.8,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ondansetron hcl injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J2405",
+      "description": "Ondansetron hcl injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 4.054285714285714,
+              "providers": [
+                {
+                  "billed_charge": 20.271428571428572,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 13.87,
+              "providers": [
+                {
+                  "billed_charge": 27.74,
+                  "npi": [
+                    1922090554
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 0.94,
+              "providers": [
+                {
+                  "billed_charge": 40,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 0.47,
+              "providers": [
+                {
+                  "billed_charge": 20,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1.5683333333333334,
+              "providers": [
+                {
+                  "billed_charge": 8,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 67.40125,
+              "providers": [
+                {
+                  "billed_charge": 387.478125,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 0.47,
+              "providers": [
+                {
+                  "billed_charge": 4,
+                  "npi": [
+                    1689608150
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Piperacillin/tazobactam",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J2543",
+      "description": "Piperacillin/tazobactam",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 80.6925,
+              "providers": [
+                {
+                  "billed_charge": 80.6925,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 39.22857142857143,
+              "providers": [
+                {
+                  "billed_charge": 274.6,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inj, propofol, 10 mg",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J2704",
+      "description": "Inj, propofol, 10 mg",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 100.98428571428572,
+              "providers": [
+                {
+                  "billed_charge": 173.69571428571427,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 162.73,
+              "providers": [
+                {
+                  "billed_charge": 162.73,
+                  "npi": [
+                    1922090554
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 3.16,
+              "providers": [
+                {
+                  "billed_charge": 15.07,
+                  "npi": [
+                    1003878539
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2.34,
+              "providers": [
+                {
+                  "billed_charge": 51.84,
+                  "npi": [
+                    1144781501
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 33,
+              "providers": [
+                {
+                  "billed_charge": 66,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 5.85,
+              "providers": [
+                {
+                  "billed_charge": 66,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 2.34,
+              "providers": [
+                {
+                  "billed_charge": 46,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 75.09545454545454,
+              "providers": [
+                {
+                  "billed_charge": 275.35,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metoclopramide hcl injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J2765",
+      "description": "Metoclopramide hcl injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 68.0125,
+              "providers": [
+                {
+                  "billed_charge": 272.05,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fentanyl citrate injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J3010",
+      "description": "Fentanyl citrate injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 12.655,
+              "providers": [
+                {
+                  "billed_charge": 49.4825,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 16.6,
+              "providers": [
+                {
+                  "billed_charge": 33.2,
+                  "npi": [
+                    1922090554
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1.51,
+              "providers": [
+                {
+                  "billed_charge": 34,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 171.72272727272727,
+              "providers": [
+                {
+                  "billed_charge": 515.1681818181818,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inj magnesium sulfate",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J3475",
+      "description": "Inj magnesium sulfate",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 122.34,
+              "providers": [
+                {
+                  "billed_charge": 122.34,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drugs unclassified injection",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J3490",
+      "description": "Drugs unclassified injection",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 100.65,
+              "providers": [
+                {
+                  "billed_charge": 100.65,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 18.5,
+              "providers": [
+                {
+                  "billed_charge": 37,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Normal saline solution infus",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J7030",
+      "description": "Normal saline solution infus",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "386006309"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 2.59,
+              "providers": [
+                {
+                  "billed_charge": 73,
+                  "npi": [
+                    1003878539
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 10.333333333333334,
+              "providers": [
+                {
+                  "billed_charge": 41.333333333333336,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 1.425,
+              "providers": [
+                {
+                  "billed_charge": 31,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 5.17,
+              "providers": [
+                {
+                  "billed_charge": 76,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 33,
+              "providers": [
+                {
+                  "billed_charge": 231,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Normal saline solution infus",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J7040",
+      "description": "Normal saline solution infus",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860422559"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 32,
+              "providers": [
+                {
+                  "billed_charge": 32,
+                  "npi": [
+                    1760480503
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "5% dextrose/water",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J7060",
+      "description": "5% dextrose/water",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "951183919"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 150,
+              "providers": [
+                {
+                  "billed_charge": 1050,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ringers lactate infusion",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J7120",
+      "description": "Ringers lactate infusion",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "205077249"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 68.13,
+              "providers": [
+                {
+                  "billed_charge": 117.425,
+                  "npi": [
+                    1134133002
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 3.38,
+              "providers": [
+                {
+                  "billed_charge": 33,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            },
+            {
+              "allowed_amount": 105,
+              "providers": [
+                {
+                  "billed_charge": 399,
+                  "npi": [
+                    1780681189
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prednisone ir or dr oral 1mg",
+      "billing_code_type": "CPT",
+      "billing_code_type_version": "2026-10-26",
+      "billing_code": "J7512",
+      "description": "Prednisone ir or dr oral 1mg",
+      "allowed_amounts": [
+        {
+          "tin": {
+            "type": "ein",
+            "value": "860098923"
+          },
+          "billing_class": "institutional",
+          "payments": [
+            {
+              "allowed_amount": 9,
+              "providers": [
+                {
+                  "billed_charge": 9,
+                  "npi": [
+                    1902897820
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
